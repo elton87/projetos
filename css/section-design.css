@@ -1,0 +1,12 @@
+.section__design {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+   
+}
+
+.project__design {
+    
+    width: 15%;
+    
+}
