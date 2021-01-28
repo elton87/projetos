@@ -1,0 +1,9 @@
+.section__style {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.project__style {
+    width: 60%;
+}
